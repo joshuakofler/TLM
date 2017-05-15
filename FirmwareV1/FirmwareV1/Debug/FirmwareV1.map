@@ -1,0 +1,945 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                              main.o (HAL_process)
+C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+                              main.o (lightcontrol_init)
+C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+                              main.o (measurement_init)
+C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                              C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o) (lightcontrolHAL_init)
+C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                              C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o) (measurementHAL_init)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              main.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              main.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+voltages            0xc               main.o
+measTimer           0x4               C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+readPointer         0x1               main.o
+nLED                0x1               C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+voltageDiv          0x8               main.o
+varID               0x1               main.o
+writePointerU1      0x1               main.o
+writePointer        0x1               main.o
+temp                0x2               main.o
+temperature         0x2               main.o
+bounds              0xe               main.o
+lightTimer          0x4               C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+state               0x1               main.o
+bufferU1            0x96              main.o
+mode                0x1               main.o
+readPointerU1       0x1               main.o
+varValue            0x2               main.o
+statusCode          0x1               main.o
+buffer              0x96              main.o
+frame               0x25              main.o
+sensorValue         0x2               main.o
+brightness          0x1               main.o
+lightmode           0x1               main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .bss.receiveFlag
+                0x00000000        0x1 main.o
+ .bss.receiveLength
+                0x00000000        0x2 main.o
+ .data.receiveCount
+                0x00000000        0x2 main.o
+ .text          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .data          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .bss           0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART0_setToTransmit
+                0x00000000       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART0_sendChar
+                0x00000000       0x1c C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART0_sendString
+                0x00000000       0x1e C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART0_sendStringWL
+                0x00000000       0x32 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART0_flush
+                0x00000000       0x1a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART0_receive
+                0x00000000       0x10 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART1_setToReceive
+                0x00000000       0x18 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART1_sendString
+                0x00000000       0x1e C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART1_flush
+                0x00000000       0x1a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.USART1_receive
+                0x00000000       0x10 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI0_init
+                0x00000000        0xc C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI0_stop
+                0x00000000       0x12 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI0_start
+                0x00000000       0x5a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI0_write
+                0x00000000       0x24 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI0_readAck
+                0x00000000       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI0_readNAck
+                0x00000000       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI1_stop
+                0x00000000       0x12 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI1_start
+                0x00000000       0x5a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI1_write
+                0x00000000       0x24 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI1_readAck
+                0x00000000       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.TWI1_readNAck
+                0x00000000       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.EAT123_init
+                0x00000000       0x84 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.EAT123_write
+                0x00000000       0x94 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.DS1621_init
+                0x00000000       0x70 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text.DS1621_getTemperature
+                0x00000000       0x94 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .text          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .data          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .bss           0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .text          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .data          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .bss           0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .text          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .data          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .bss           0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .text          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+ .data          0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+ .bss           0x00000000        0x0 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+ .text.getChipTemperature
+                0x00000000        0x8 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+ .text.getAmbientTemperature
+                0x00000000        0xe C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+LOAD main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5\libatmega328pb.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x16b6
+ *(.vectors)
+ .vectors       0x00000000       0xb4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.bus_setVariable
+                0x000000b4       0x2c main.o
+ .progmem.gcc_sw_table.bus_getVariable
+                0x000000e0       0x2c main.o
+                0x0000010c                . = ALIGN (0x2)
+                0x0000010c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000010c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000010c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000010c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000010c                __ctors_start = .
+ *(.ctors)
+                0x0000010c                __ctors_end = .
+                0x0000010c                __dtors_start = .
+ *(.dtors)
+                0x0000010c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000010c        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+                0x0000010c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000010c        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000118       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x00000118                __do_copy_data
+ .init4         0x0000012e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x0000012e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000013e        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ *(.init9)
+ *(.text)
+ .text          0x00000146        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+                0x00000146                __vector_38
+                0x00000146                __vector_22
+                0x00000146                __vector_1
+                0x00000146                __vector_32
+                0x00000146                __vector_34
+                0x00000146                __vector_24
+                0x00000146                __vector_12
+                0x00000146                __bad_interrupt
+                0x00000146                __vector_6
+                0x00000146                __vector_31
+                0x00000146                __vector_35
+                0x00000146                __vector_39
+                0x00000146                __vector_3
+                0x00000146                __vector_23
+                0x00000146                __vector_30
+                0x00000146                __vector_25
+                0x00000146                __vector_11
+                0x00000146                __vector_13
+                0x00000146                __vector_17
+                0x00000146                __vector_19
+                0x00000146                __vector_41
+                0x00000146                __vector_43
+                0x00000146                __vector_27
+                0x00000146                __vector_5
+                0x00000146                __vector_33
+                0x00000146                __vector_37
+                0x00000146                __vector_4
+                0x00000146                __vector_44
+                0x00000146                __vector_9
+                0x00000146                __vector_2
+                0x00000146                __vector_21
+                0x00000146                __vector_15
+                0x00000146                __vector_36
+                0x00000146                __vector_29
+                0x00000146                __vector_40
+                0x00000146                __vector_8
+                0x00000146                __vector_26
+                0x00000146                __vector_14
+                0x00000146                __vector_10
+                0x00000146                __vector_16
+                0x00000146                __vector_20
+                0x00000146                __vector_42
+                0x0000014a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_18
+                0x0000014a       0x4c main.o
+                0x0000014a                __vector_18
+ .text.__vector_28
+                0x00000196       0x4c main.o
+                0x00000196                __vector_28
+ .text.bus_setVariable
+                0x000001e2       0xee main.o
+                0x000001e2                bus_setVariable
+ .text.bus_getVariable
+                0x000002d0       0xf8 main.o
+                0x000002d0                bus_getVariable
+ .text.bus_sendDeviceInformation
+                0x000003c8      0x142 main.o
+                0x000003c8                bus_sendDeviceInformation
+ .text.bus_process
+                0x0000050a      0x7b0 main.o
+                0x0000050a                bus_process
+ .text.stateMachine
+                0x00000cba       0x2e main.o
+                0x00000cba                stateMachine
+ .text.main     0x00000ce8       0x28 main.o
+                0x00000ce8                main
+ .text.__vector_7
+                0x00000d10       0x22 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000d10                __vector_7
+ .text.HAL_process
+                0x00000d32       0xb2 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000d32                HAL_process
+ .text.USART0_init
+                0x00000de4       0x18 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000de4                USART0_init
+ .text.USART0_setToReceive
+                0x00000dfc       0x18 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000dfc                USART0_setToReceive
+ .text.USART1_init
+                0x00000e14       0x18 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000e14                USART1_init
+ .text.USART1_setToTransmit
+                0x00000e2c       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000e2c                USART1_setToTransmit
+ .text.HAL_init
+                0x00000e42       0x28 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000e42                HAL_init
+ .text.USART1_sendChar
+                0x00000e6a       0x1c C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000e6a                USART1_sendChar
+ .text.USART1_sendStringWL
+                0x00000e86       0x32 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000e86                USART1_sendStringWL
+ .text.TWI1_init
+                0x00000eb8        0xc C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                0x00000eb8                TWI1_init
+ .text.lightcontrol_init
+                0x00000ec4       0x10 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+                0x00000ec4                lightcontrol_init
+ .text.lightcontrol_process
+                0x00000ed4       0x84 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+                0x00000ed4                lightcontrol_process
+ .text.measurement_init
+                0x00000f58       0x60 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+                0x00000f58                measurement_init
+ .text.measurement_process
+                0x00000fb8      0x1b6 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+                0x00000fb8                measurement_process
+ .text.lightcontrolHAL_init
+                0x0000116e        0xc C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                0x0000116e                lightcontrolHAL_init
+ .text.setbrightness_FULLOFF
+                0x0000117a        0xa C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                0x0000117a                setbrightness_FULLOFF
+ .text.setbrightness_FULLON
+                0x00001184        0xa C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                0x00001184                setbrightness_FULLON
+ .text.setbrightness
+                0x0000118e        0xa C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                0x0000118e                setbrightness
+ .text.invbrightness
+                0x00001198       0x16 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                0x00001198                invbrightness
+ .text.measurementHAL_init
+                0x000011ae        0x6 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                0x000011ae                measurementHAL_init
+ .text.readADC  0x000011b4       0x46 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                0x000011b4                readADC
+ .text.getAllVoltages
+                0x000011fa       0xe6 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                0x000011fa                getAllVoltages
+ .text.getAllDivVoltages
+                0x000012e0       0xde C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                0x000012e0                getAllDivVoltages
+ .text.getSensorValue
+                0x000013be       0x44 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                0x000013be                getSensorValue
+ .text.avr-libc.fplib
+                0x00001402       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001402                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001460       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00001460                __floatunsisf
+                0x00001464                __floatsisf
+ .text.avr-libc.fplib
+                0x000014da       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000014da                __fp_split3
+                0x000014ea                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000151e        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000151e                __fp_zero
+                0x00001520                __fp_szero
+ .text.avr-libc.fplib
+                0x0000152c        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000152c                __mulsf3
+ .text.avr-libc.fplib
+                0x00001534       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00001552                __mulsf3x
+                0x00001558                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00001606        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001606                __fp_inf
+ .text.avr-libc.fplib
+                0x00001612        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001612                __fp_nan
+ .text.avr-libc.fplib
+                0x00001618        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001618                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001626        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001626                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001634       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001634                __fp_round
+ .text.libgcc.div
+                0x00001656       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x00001656                _div
+                0x00001656                __divmodhi4
+ .text.libgcc   0x0000167e        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x0000167e                __tablejump2__
+ .text.libgcc.div
+                0x0000168a       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000168a                __udivmodhi4
+                0x000016b2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000016b2        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x000016b2                _exit
+                0x000016b2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000016b2        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000016b6                _etext = .
+
+.data           0x00800100        0xc load address 0x000016b6
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.toolID   0x00800100        0x1 main.o
+                0x00800100                toolID
+ .data.deviceSTOP
+                0x00800101        0x1 main.o
+                0x00800101                deviceSTOP
+ .data.deviceSTART
+                0x00800102        0x1 main.o
+                0x00800102                deviceSTART
+ .data.STOP     0x00800103        0x1 main.o
+                0x00800103                STOP
+ .data.START    0x00800104        0x1 main.o
+                0x00800104                START
+ *(.rodata)
+ *(.rodata*)
+ .rodata.hal_timers
+                0x00800105        0x6 main.o
+                0x00800105                hal_timers
+ *(.gnu.linkonce.d*)
+                0x0080010c                . = ALIGN (0x2)
+ *fill*         0x0080010b        0x1 
+                0x0080010c                _edata = .
+                0x0080010c                PROVIDE (__data_end, .)
+
+.bss            0x0080010c      0x198
+                0x0080010c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.errorCode
+                0x0080010c        0x1 main.o
+                0x0080010c                errorCode
+ .bss.measurementLED_valid
+                0x0080010d        0x1 main.o
+                0x0080010d                measurementLED_valid
+ .bss.address   0x0080010e        0x2 main.o
+                0x0080010e                address
+ .bss.length    0x00800110        0x2 main.o
+                0x00800110                length
+ .bss.flag      0x00800112        0x1 main.o
+                0x00800112                flag
+ .bss.timer800us
+                0x00800113        0x1 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .bss.measCount
+                0x00800114        0x1 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+                0x00800114                measCount
+ .bss.state     0x00800115        0x1 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ *(COMMON)
+ COMMON         0x00800116      0x185 main.o
+                0x00800116                voltages
+                0x00800122                readPointer
+                0x00800123                voltageDiv
+                0x0080012b                varID
+                0x0080012c                writePointerU1
+                0x0080012d                writePointer
+                0x0080012e                temp
+                0x00800130                temperature
+                0x00800132                bounds
+                0x00800140                state
+                0x00800141                bufferU1
+                0x008001d7                mode
+                0x008001d8                readPointerU1
+                0x008001d9                varValue
+                0x008001db                statusCode
+                0x008001dc                buffer
+                0x00800272                frame
+                0x00800297                sensorValue
+                0x00800299                brightness
+                0x0080029a                lightmode
+ COMMON         0x0080029b        0x4 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+                0x0080029b                lightTimer
+ COMMON         0x0080029f        0x5 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+                0x0080029f                measTimer
+                0x008002a3                nLED
+                0x008002a4                PROVIDE (__bss_end, .)
+                0x000016b6                __data_load_start = LOADADDR (.data)
+                0x000016c2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002a4        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008002a4                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .comment       0x00000030       0x31 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .comment       0x00000030       0x31 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .comment       0x00000030       0x31 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .comment       0x00000030       0x31 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x268
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x58 main.o
+ .debug_aranges
+                0x00000058      0x130 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_aranges
+                0x00000188       0x28 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .debug_aranges
+                0x000001b0       0x28 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_aranges
+                0x000001d8       0x40 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .debug_aranges
+                0x00000218       0x50 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x24c7
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x8ea C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_info    0x000008ea      0x6de main.o
+ .debug_info    0x00000fc8      0xd1c C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_info    0x00001ce4      0x15b C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .debug_info    0x00001e3f      0x24c C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_info    0x0000208b       0xed C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .debug_info    0x00002178      0x34f C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_abbrev   0x00000000     0x105c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x86e C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_abbrev  0x0000086e      0x179 main.o
+ .debug_abbrev  0x000009e7      0x2ba C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_abbrev  0x00000ca1       0xab C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .debug_abbrev  0x00000d4c      0x147 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_abbrev  0x00000e93       0x7a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .debug_abbrev  0x00000f0d      0x14f C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_line     0x00000000     0x1c6f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1a5 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_line    0x000001a5      0xa2f main.o
+ .debug_line    0x00000bd4      0x9ae C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_line    0x00001582      0x17a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .debug_line    0x000016fc      0x232 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_line    0x0000192e      0x145 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .debug_line    0x00001a73      0x1fc C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_frame    0x00000000      0x548
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xe8 main.o
+ .debug_frame   0x000000e8      0x2c8 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_frame   0x000003b0       0x34 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .debug_frame   0x000003e4       0x54 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_frame   0x00000438       0x64 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .debug_frame   0x0000049c       0xac C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_str      0x00000000      0xb63
+ *(.debug_str)
+ .debug_str     0x00000000      0x318 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328pb/avr5/crtatmega328pb.o
+ .debug_str     0x00000318      0x3e8 main.o
+                                0x457 (size before relaxing)
+ .debug_str     0x00000700      0x2c4 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+                                0x462 (size before relaxing)
+ .debug_str     0x000009c4       0x70 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+                                0x241 (size before relaxing)
+ .debug_str     0x00000a34       0x83 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+                                0x271 (size before relaxing)
+ .debug_str     0x00000ab7       0x3a C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+                                0x1f6 (size before relaxing)
+ .debug_str     0x00000af1       0x72 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+                                0x281 (size before relaxing)
+
+.debug_loc      0x00000000      0xe33
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x603 main.o
+ .debug_loc     0x00000603      0x5f2 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_loc     0x00000bf5       0x8b C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_loc     0x00000c80      0x1b3 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x208
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x48 main.o
+ .debug_ranges  0x00000048      0x120 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(controlBoxV01HAL.o)
+ .debug_ranges  0x00000168       0x18 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrol.o)
+ .debug_ranges  0x00000180       0x18 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurements.o)
+ .debug_ranges  0x00000198       0x30 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(lightcontrolHAL.o)
+ .debug_ranges  0x000001c8       0x40 C:\Users\Admin\Google Drive\projects\TLM\FirmwareV1\FirmwareV1lib\Debug\libFirmwareV1lib.a(measurementsHAL.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(FirmwareV1.elf elf32-avr)
+LOAD linker stubs
